@@ -9,7 +9,7 @@ red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 ###################################################
-# Channel Santri Teknologi
+# ToolsV1.0
 ###################################################
 trap ctrl_c INT
 ctrl_c() {
@@ -22,20 +22,15 @@ echo  $yellow"[#]> Thank You For Using My
 Tools ... "
 sleep 1
 echo ""
-echo  $white"[#]> Mr.clay
+echo  $white"[#]> Mr.V1.0
 Here ... "
 read enter
 exit
 }
 =================================================
-echo $white"Author : Mem Santri team official"
-echo $white"Team : JUNIOR GUARDIAN TEAM"
-echo $white"Thanks To :VIP.SWORD | RIFALDI| RX KING | Mr. NEWBIE | "
-echo $white"Thanks To :indonesia meme"
-echo $white"thanks To : SANTRI CYBER"
-echo $white"thanks To : JATIM BLACK HAT"
-echo $white"thanks To : Blackhat Hacker Indonesia"
-
+echo $white"Author : DvToolsV1.0"
+echo $white"Team : ALFATOOLS_v1.0"
+echo $white"Thanks To :ALFATEAM "
 =================================================
 echo  $yellow" 01) Red Hawk"
 echo  $yellow" 02) D-Tect"
@@ -53,7 +48,7 @@ echo  $yellow" 13) Tools RCT"
 echo  $yellow" 14)  cc fresh Amazon Dan Untung Carding"
 echo  $red" 15) Exit "
 echo  $white""
-read -p "[SANTRI GANS]> " bro;
+read -p "[ALFATOOLS v1.0]> " bro;
 
 if [ $bro = 1 ] || [ $bro = 01 ]
 then
@@ -261,17 +256,13 @@ fi
 
 if [ $bro = 15 ] || [ $bro = 15 ]
 then
-echo " Thanks To Santri team official "
+echo " Thanks To AlfaTeam official "
 sleep 1
-echo " Santri pasuruan"
+echo " Tools v1.0"
 sleep 1
 echo " Bay-Bay "
 sleep 1
 echo " Para Hacker"
-sleep 1
-echo " Jangan Lupa Colii Yahh "
-sleep 1
-echo " Semoga Lu Besok Mati ea Budjank"
 sleep 1
 exit
 fi
